@@ -39,6 +39,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 For more details, refer to docs/requirements.md.
 
+```
 
 data-warehouse-project/
 │
@@ -64,4 +65,4 @@ data-warehouse-project/
 ├── .gitignore                          # Files and directories to be ignored by Git
 └── requirements.txt                    # Dependencies and requirements for the project
 
-
+```
